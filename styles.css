@@ -122,11 +122,13 @@ color: #E28729;
 
 .benefits-list {
     display: flex;
-    gap: 24px;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
 }
 
 .benefits-list-item {
-    width: calc((100% - 80px) / 6 );
+    width: calc((100% - 48px) / 3 );
     flex-direction: row;
 }
 
