@@ -56,12 +56,12 @@ font-weight: 500;
 line-height: 1.17; 
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #E28729;
+color: #CBD6B6;
 margin-right: 380px;
 }
 
 .page-navigation {
-    color: #E28729;
+    color: ##CBD6B6;
 }
 
 .header-span {
@@ -87,7 +87,7 @@ padding: 24px 0;
 
 .menu-link:hover,
 .menu-link:focus {
-    color: #E28729;
+    color: #CBD6B6;
 }
 
 /* ============== /HEADER STYLES ============== */
@@ -105,7 +105,7 @@ max-width: 496px;
 margin-left: auto;
 margin-right: auto;
 margin-bottom: 48px;
-color: #E28729;
+color: #CBD6B6;
 }
 
 .hero {
@@ -161,7 +161,7 @@ font-weight: 500;
 line-height: 1.17; 
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #E28729;
+color: #CBD6B6;
 margin-right: 380px;
 }
 
